@@ -1,0 +1,8 @@
+Dentist Appointment
+10/03/2024 16:15 17:00
+Doctors Appointment
+10/03/2024 11:15 12:00
+CS151 Lecture
+10/03/2024 09:00 10:15 
+CS47 Lecture
+10/03/2024 15:00 16:15
